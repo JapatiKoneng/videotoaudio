@@ -1,0 +1,6 @@
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+ffmpeg.exe        # too large for GitHub (optional, add a download note in README)
